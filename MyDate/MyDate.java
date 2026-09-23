@@ -73,7 +73,6 @@ public class MyDate implements DateInterface{
         // to make day to be 1 and month to be 1 (added 1 with current month value)
         // first check if day has reached its maximum by comparing it with daysOfMonth[month]
         // then if true, make day to be 1 and check for month
-
         if (day != daysOfMonth[month])
         {
             day += 1;
@@ -97,12 +96,10 @@ public class MyDate implements DateInterface{
         {
             leapYear = false;
             daysOfMonth[1] = 28;
-        }
-        
+        }  
     }
     
     public String toString() {
         return this.daysOfWeek[dow] + " , " + this.monthsOfYear[month] + " " + this.day + " , " + this.year;
     }
-
 }
