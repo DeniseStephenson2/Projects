@@ -5,7 +5,7 @@ public class Year3000
   public static void main(String [] args) throws IOException
   {
     DateInterface d = new MyDate();
-    d.set(1,28,2024,3);  // sets the date to Sunday, January 22nd, 2023
+    d.set(1,28,2024,3);  // sets the date to Wednesday, January 28nd, 2024
     d.tomorrow();
     System.out.println(d);
 
