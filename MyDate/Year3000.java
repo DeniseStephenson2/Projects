@@ -1,5 +1,4 @@
 import java.io.*;
-
 /**
   Driver class for The Dating Game programming assignment.
   @author Sean Sullivan
