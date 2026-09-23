@@ -22,7 +22,5 @@ public class Year3000
     }
     // at this point, d represents January 1, 3000
     System.out.println(d);
-
-    System.out.println(d);
   }
 }
