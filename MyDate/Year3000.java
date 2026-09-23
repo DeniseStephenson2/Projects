@@ -1,8 +1,5 @@
 import java.io.*;
-/**
-  Driver class for The Dating Game programming assignment.
-  @author Sean Sullivan
-*/
+
 public class Year3000
 {
   public static void main(String [] args) throws IOException
