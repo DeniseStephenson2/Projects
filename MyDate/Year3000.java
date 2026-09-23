@@ -13,8 +13,7 @@ public class Year3000
     {
       d.tomorrow();
       System.out.println(d);
-    }
-    //System.out.println(d);*/
+    }*/
     
     while(d.getYear()<3000)
     {
