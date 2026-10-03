@@ -1,0 +1,221 @@
+Who has come to visit?
+M
+
+Manager: Just here to check the Inventory.
+Thomas: Understood.
+
+            NukaColas     Rad-Aways     Shotgun Shells 
+Inventory:     100            100             100
+Sold:          0              0               0
+Remaining:     100            100             100
+
+Total Money: 0
+
+Thomas: Who else? 
+S
+
+Supplier: Heres your 65 NukaColas, 250 Rad-Aways, and 32 Shotgun Shells!
+Thomas: Send it to the back, please.
+Supplier: Will do. 
+
+Thomas: Who else? 
+C
+
+Customer: Hi! I would like to purchase some items, please.
+Thomas: Alright, how many NukaColas? 672
+Thomas: We don't have that many. How many NukaColas? 412
+Thomas: We don't have that many. How many NukaColas? 160
+Thomas: How many Rad-Aways? 76
+Thomas: How many Shotgun Shells? 243
+Thomas: We don't have that many. How many Shotgun Shells? 34
+Thomas: Your total is: 5356.5 caps
+Customer: Lucky I saved up enough caps!
+
+Thomas: Who else? 
+M
+
+Manager: Just here to check the Inventory.
+Thomas: Understood.
+
+            NukaColas     Rad-Aways     Shotgun Shells 
+Inventory:     165            350             132
+Sold:          160              76               34
+Remaining:     5            274             98
+
+Total Money: 5356.5
+
+Thomas: Who else? 
+B
+
+The Bum took: 5 NukaColas, 2 Rad-Aways, and 6 Shotgun Shells
+Thomas: Not like I could have stopped them anyway. :/ 
+
+Thomas: Who else? 
+M
+
+Manager: Just here to check the Inventory.
+Thomas: Understood.
+
+            NukaColas     Rad-Aways     Shotgun Shells 
+Inventory:     160            348             126
+Sold:          160              76               34
+Remaining:     0            272             92
+
+Total Money: 5356.5
+
+Thomas: Who else? 
+R
+
+Robber: I'm going to steal your 5356.5 caps if you don't mind. O __ O 
+Thomas: What a polite robber! :D 
+
+Thomas: Who else? 
+M
+
+Manager: Just here to check the Inventory.
+Thomas: Understood.
+
+            NukaColas     Rad-Aways     Shotgun Shells 
+Inventory:     160            348             126
+Sold:          160              76               34
+Remaining:     0            272             92
+
+Total Money: 0
+
+Thomas: Who else? 
+C
+
+Customer: Hi! I would like to purchase some items, please.
+Thomas: Alright, how many NukaColas? 26
+Thomas: We don't have that many. How many NukaColas? 0
+Thomas: How many Rad-Aways? 334 
+Thomas: We don't have that many. How many Rad-Aways? 242
+Thomas: How many Shotgun Shells? 23
+Thomas: Your total is: 6371.75 caps
+Customer: Lucky I saved up enough caps!
+
+Thomas: Who else? 
+M
+
+Manager: Just here to check the Inventory.
+Thomas: Understood.
+
+            NukaColas     Rad-Aways     Shotgun Shells 
+Inventory:     0            272             92
+Sold:          0              242               23
+Remaining:     0            30             69
+
+Total Money: 6371.75
+
+Thomas: Who else? 
+S
+
+Supplier: Heres your 5 NukaColas, 173 Rad-Aways, and 99 Shotgun Shells!
+Thomas: Send it to the back, please.
+Supplier: Will do. 
+
+Thomas: Who else? 
+M
+
+Manager: Just here to check the Inventory.
+Thomas: Understood.
+
+            NukaColas     Rad-Aways     Shotgun Shells 
+Inventory:     5            203             168
+Sold:          0              0               0
+Remaining:     5            203             168
+
+Total Money: 6371.75
+
+Thomas: Who else? 
+S
+
+Supplier: Heres your 210 NukaColas, 198 Rad-Aways, and 208 Shotgun Shells!
+Thomas: Send it to the back, please.
+Supplier: Will do. 
+
+Thomas: Who else? 
+S
+
+Supplier: Heres your 10 NukaColas, 12 Rad-Aways, and 231 Shotgun Shells!
+Thomas: Send it to the back, please.
+Supplier: Will do. 
+
+Thomas: Who else? 
+M
+
+Manager: Just here to check the Inventory.
+Thomas: Understood.
+
+            NukaColas     Rad-Aways     Shotgun Shells 
+Inventory:     225            413             607
+Sold:          0              0               0
+Remaining:     225            413             607
+
+Total Money: 6371.75
+
+Thomas: Who else? 
+C
+
+Customer: Hi! I would like to purchase some items, please.
+Thomas: Alright, how many NukaColas? 56
+Thomas: How many Rad-Aways? 646
+Thomas: We don't have that many. How many Rad-Aways? 242
+Thomas: How many Shotgun Shells? 367
+Thomas: Your total is: 13987.8 caps
+Customer: Lucky I saved up enough caps!
+
+Thomas: Who else? 
+M
+
+Manager: Just here to check the Inventory.
+Thomas: Understood.
+
+            NukaColas     Rad-Aways     Shotgun Shells 
+Inventory:     225            413             607
+Sold:          56              242               367
+Remaining:     169            171             240
+
+Total Money: 13987.8
+
+Thomas: Who else? 
+R
+
+Robber: I'm going to steal your 13987.8 caps if you don't mind. O __ O 
+Thomas: What a polite robber! :D 
+
+Thomas: Who else? 
+B
+
+The Bum took: 6 NukaColas, 2 Rad-Aways, and 6 Shotgun Shells
+Thomas: Not like I could have stopped them anyway. :/ 
+
+Thomas: Who else? 
+B
+
+The Bum took: 6 NukaColas, 2 Rad-Aways, and 6 Shotgun Shells
+Thomas: Not like I could have stopped them anyway. :/ 
+
+Thomas: Who else? 
+B
+
+The Bum took: 6 NukaColas, 2 Rad-Aways, and 6 Shotgun Shells
+Thomas: Not like I could have stopped them anyway. :/ 
+
+Thomas: Who else? 
+M
+
+Manager: Just here to check the Inventory.
+Thomas: Understood.
+
+            NukaColas     Rad-Aways     Shotgun Shells 
+Inventory:     207            407             589
+Sold:          56              242               367
+Remaining:     151            165             222
+
+Total Money: 0
+
+Thomas: Who else? 
+Q
+
+The Store is closed now and will reopen soon. Until then, have a nice rest of your day! :)
